@@ -1,11 +1,6 @@
-# YOLOv8 Fine-Tuning – Learning Project
+# Football Player Detection – YOLOv8 Fine-Tuning
 
-This repository contains a simple and clean demonstration of how to fine-tune a YOLOv8 model on a custom dataset from Roboflow.
+This repository demonstrates how to fine-tune a YOLOv8 model on a custom dataset from Roboflow.  
+The project is kept intentionally simple to show the core workflow of dataset loading, training, evaluation, and inference.
 
-## Contents
-- `finetuning_yolo.ipynb` – the main notebook with dataset download, training, evaluation, and inference
-- `requirements.txt` – dependencies required to run the notebook
-
-## How to Run
-Install dependencies:
-
+The main file in this project is the notebook:
